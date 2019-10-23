@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connecting Two Interfaces</string>
+    <string name="text1">Page 1.</string>
+    <string name="button1">Next</string>
+    <string name="text2">Page 2.</string>
+    <string name="button2">Previous</string>
+</resources>
